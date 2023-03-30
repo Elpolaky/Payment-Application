@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1680204168 source:c:\kareem\my data\courses\sprints\payment project\team_7\project\server\server.c
+	"Server.h"
+
+1680204351 c:\kareem\my data\courses\sprints\payment project\team_7\project\server\server.h
+	<stdio.h>
+	<stdlib.h>
+
+1680213061 source:c:\kareem\my data\courses\sprints\payment project\team_7\project\server\server_main\main.c
+
+1680212968 source:c:\kareem\my data\courses\sprints\payment project\team_7\project\server\server_main\server.c
+	"database.h"
+
+1680212930 c:\kareem\my data\courses\sprints\payment project\team_7\project\server\server_main\server.h
+	<stdio.h>
+	<stdlib.h>
+
+1680211520 c:\kareem\my data\courses\sprints\payment project\team_7\project\server\server_main\database.h
+	"Server.h"
+
